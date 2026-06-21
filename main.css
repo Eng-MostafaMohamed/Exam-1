@@ -73,15 +73,15 @@
 }
 
 .p-12 {
-  background: linear-gradient(rgba(0,0,0,0.1), rgba(88, 28, 135, 0.75)), url('/Images/new-york.jpeg');
+  background: linear-gradient(rgba(0,0,0,0.1), rgba(88, 28, 135, 0.75)), url('./Images/new-york.jpeg');
 }
 
 .p-13 {
-  background: linear-gradient(rgba(0,0,0,0.1), rgba(88, 28, 135, 0.75)), url('/Images/los-angeles.jpeg');
+  background: linear-gradient(rgba(0,0,0,0.1), rgba(88, 28, 135, 0.75)), url('./Images/los-angeles.jpeg');
 }
 
 .p-16 {
-  background: linear-gradient(rgba(0,0,0,0.1), rgba(88, 28, 135, 0.75)), url('/Images/miami.jpeg');
+  background: linear-gradient(rgba(0,0,0,0.1), rgba(88, 28, 135, 0.75)), url('./Images/miami.jpeg');
 }
 
 .p-12 , .p-13 , .p-16 {
